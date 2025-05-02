@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Yadav</h1>
-<h3 align="center">MERN Stack Developer | React | Node.js | MongoDB | Express</h3>
+<h3 align="center">MERN Stack Developer | React | Node.js | MongoDB | Express | AI Automation </h3>
 
 <p align="center">
   <a href="mailto:parthyadav141@gmail.com">📧 Email</a> |
